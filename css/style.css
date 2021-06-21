@@ -238,7 +238,7 @@
 /********** section 5 *******/
 #section-5 {
     background: linear-gradient(rgba(0,0,0,0.5),rgba(114, 113, 113, 0.829)),
-                url("../Images/bg2.jpg");
+                url("../images/bg2.jpg");
     padding-bottom: 50px;
 }
 #section-5 .wrapper {
@@ -349,7 +349,7 @@
     margin-bottom: 40px;
 }
 #customer article div {
-    background: url("../Images/blockquote2.png") no-repeat 10px 30px;
+    background: url("../images/blockquote2.png") no-repeat 10px 30px;
     background-color: #e8e4e4;
     padding: 30px 30px 20px 60px;
 }
